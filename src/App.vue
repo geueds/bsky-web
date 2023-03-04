@@ -249,7 +249,7 @@ span.name {
 }
 span.text {
 	font-family: 'DM Sans';
-	font-weight: 400;
+	font-weight: 500;
 }
 
 .bluesky-record li {
