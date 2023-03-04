@@ -265,6 +265,8 @@ span.text {
 }
 a {
 	color: #00A4E1;
+	font-family: 'DM Sans';
+	font-weight: '800';
 }
 footer#footer {
 	text-align: center;
